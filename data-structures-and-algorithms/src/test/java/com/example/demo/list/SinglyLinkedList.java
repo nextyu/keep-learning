@@ -4,7 +4,7 @@ import com.example.demo.ListNode;
 
 // https://java2blog.com/implement-singly-linked-list-in-java/
 public class SinglyLinkedList {
-    private ListNode head;
+    public ListNode head;
 
     private boolean isEmpty() {
         return head == null;
